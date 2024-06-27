@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlJlin
 - 👀 I’m interested in coding in Java or Python
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Game Developping
 - 📫 How to reach me jeanlincarlpro@gmail.com
 - 😄 Pronouns: He/Him
