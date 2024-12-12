@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CarlJlin
 - 👀 I’m interested in coding in Java or Python
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Game Developping
+- 🌱 I’m currently learning JavaScript&Angular
+- 💞️ I’m looking to collaborate on Game Developpement
 - 📫 How to reach me jeanlincarlpro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was deaf until my 2 years old
