@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1"/>
 
 <!-- ANIMATED TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Building+scalable+web+applications;%3E+Crafting+clean+%26+efficient+code;%3E+Shipping+full-stack+solutions;%3E+From+database+to+deployment)](https://git.io/typing-svg)
