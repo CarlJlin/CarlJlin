@@ -1,8 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1#gh-dark-mode-only"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:e8eef5,50:dce6f5,100:4A90D9&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=24292f&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=4A90D9&strokeWidth=1#gh-light-mode-only"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8eef5,50:dce6f5,100:4A90D9&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=24292f&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=4A90D9&strokeWidth=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1"/>
+</picture>
 
 <!-- ANIMATED TYPING -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Building+scalable+web+applications;%3E+Crafting+clean+%26+efficient+code;%3E+Shipping+full-stack+solutions;%3E+From+database+to+deployment)](https://git.io/typing-svg)
@@ -86,43 +88,61 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge#gh-dark-mode-only" alt=""/>
-<img src="https://img.shields.io/badge/LANGUAGES-e8eef5?style=for-the-badge#gh-light-mode-only" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LANGUAGES-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,php&theme=dark&perline=2#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,php&theme=light&perline=2#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,cpp,php&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php&theme=dark&perline=2" alt=""/>
+</picture></a>
 <br>
-<a href="#"><img src="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark&perline=2#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light&perline=2#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark&perline=2" alt=""/>
+</picture></a>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge#gh-dark-mode-only" alt=""/>
-<img src="https://img.shields.io/badge/FRONTEND-e8eef5?style=for-the-badge#gh-light-mode-only" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FRONTEND-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark&perline=2#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,bootstrap&theme=light&perline=2#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,bootstrap&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark&perline=2" alt=""/>
+</picture></a>
 <br><br>
 <img src="https://img.shields.io/badge/Responsive-Design-70A5FD?style=flat-square" alt=""/>
 <br>
 <img src="https://img.shields.io/badge/SPA-Architecture-70A5FD?style=flat-square" alt=""/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/BACKEND-0d1117?style=for-the-badge#gh-dark-mode-only" alt=""/>
-<img src="https://img.shields.io/badge/BACKEND-e8eef5?style=for-the-badge#gh-light-mode-only" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/BACKEND-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BACKEND-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark&perline=2#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=light&perline=2#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark&perline=2" alt=""/>
+</picture></a>
 <br><br>
 <img src="https://img.shields.io/badge/REST-APIs-70A5FD?style=flat-square" alt=""/>
 <br>
 <img src="https://img.shields.io/badge/MVC-Pattern-70A5FD?style=flat-square" alt=""/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/DEVOPS-0d1117?style=for-the-badge#gh-dark-mode-only" alt=""/>
-<img src="https://img.shields.io/badge/DEVOPS-e8eef5?style=for-the-badge#gh-light-mode-only" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DEVOPS-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEVOPS-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark&perline=2#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light&perline=2#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark&perline=2" alt=""/>
+</picture></a>
 <br><br>
 <img src="https://img.shields.io/badge/CI/CD-Pipelines-70A5FD?style=flat-square" alt=""/>
 <br>
@@ -136,22 +156,30 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-0d1117?style=for-the-badge#gh-dark-mode-only" alt=""/>
-<img src="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-e8eef5?style=for-the-badge#gh-light-mode-only" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=qt&theme=dark#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=qt&theme=light#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=qt&theme=light" />
+  <img src="https://skillicons.dev/icons?i=qt&theme=dark" alt=""/>
+</picture></a>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
 <img src="https://img.shields.io/badge/LibGDX-E74C3C?style=for-the-badge&logo=gamemaker&logoColor=white" alt="LibGDX"/>
 <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame"/>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/IDE_&_BUILD-0d1117?style=for-the-badge#gh-dark-mode-only" alt=""/>
-<img src="https://img.shields.io/badge/IDE_&_BUILD-e8eef5?style=for-the-badge#gh-light-mode-only" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IDE_&_BUILD-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IDE_&_BUILD-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=dark&perline=4#gh-dark-mode-only" alt=""/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=light&perline=4#gh-light-mode-only" alt=""/></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=dark&perline=4" alt=""/>
+</picture></a>
 </td>
 </tr>
 </table>
@@ -167,36 +195,26 @@ class Developer {
 
 <br>
 
-<a href="https://github.com/CarlJlin/QuantumIdle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=QuantumIdle&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9#gh-dark-mode-only" width="49%" alt="QuantumIdle"/>
-</a>
-<a href="https://github.com/CarlJlin/QuantumIdle">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=QuantumIdle&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f#gh-light-mode-only" width="49%" alt="QuantumIdle"/>
-</a>
-<a href="https://github.com/CarlJlin/LightBrowser">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=LightBrowser&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9#gh-dark-mode-only" width="49%" alt="LightBrowser"/>
-</a>
-<a href="https://github.com/CarlJlin/LightBrowser">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=LightBrowser&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f#gh-light-mode-only" width="49%" alt="LightBrowser"/>
-</a>
-<a href="https://github.com/CarlJlin/SAE2.01-2.02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=SAE2.01-2.02&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9#gh-dark-mode-only" width="49%" alt="SAE2.01-2.02"/>
-</a>
-<a href="https://github.com/CarlJlin/SAE2.01-2.02">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=SAE2.01-2.02&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f#gh-light-mode-only" width="49%" alt="SAE2.01-2.02"/>
-</a>
-<a href="https://github.com/CarlJlin/Connect-Four">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=Connect-Four&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9#gh-dark-mode-only" width="49%" alt="Connect-Four"/>
-</a>
-<a href="https://github.com/CarlJlin/Connect-Four">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=Connect-Four&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f#gh-light-mode-only" width="49%" alt="Connect-Four"/>
-</a>
-<a href="https://github.com/CarlJlin/TheMightyPath">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=TheMightyPath&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9#gh-dark-mode-only" width="49%" alt="TheMightyPath"/>
-</a>
-<a href="https://github.com/CarlJlin/TheMightyPath">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=TheMightyPath&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f#gh-light-mode-only" width="49%" alt="TheMightyPath"/>
-</a>
+<a href="https://github.com/CarlJlin/QuantumIdle"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=QuantumIdle&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=QuantumIdle&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9" width="49%" alt="QuantumIdle"/>
+</picture></a>
+<a href="https://github.com/CarlJlin/LightBrowser"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=LightBrowser&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=LightBrowser&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9" width="49%" alt="LightBrowser"/>
+</picture></a>
+<a href="https://github.com/CarlJlin/SAE2.01-2.02"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=SAE2.01-2.02&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=SAE2.01-2.02&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9" width="49%" alt="SAE2.01-2.02"/>
+</picture></a>
+<a href="https://github.com/CarlJlin/Connect-Four"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=Connect-Four&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=Connect-Four&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9" width="49%" alt="Connect-Four"/>
+</picture></a>
+<a href="https://github.com/CarlJlin/TheMightyPath"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=TheMightyPath&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlJlin&repo=TheMightyPath&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9" width="49%" alt="TheMightyPath"/>
+</picture></a>
 
 </div>
 
@@ -209,21 +227,29 @@ class Developer {
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlJlin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9&ring_color=70A5FD#gh-dark-mode-only" width="49%" alt="Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=CarlJlin&show_icons=true&theme=default&hide_border=true&border_radius=15&count_private=true&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f&ring_color=2563EB#gh-light-mode-only" width="49%" alt="Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlJlin&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD&sideLabels=c9d1d9&dates=636e72&currStreakNum=70A5FD&sideNums=70A5FD#gh-dark-mode-only" width="49%" alt="Streak"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlJlin&theme=default&hide_border=true&border_radius=15&background=f6f8fa&ring=2563EB&fire=e74c3c&currStreakLabel=2563EB&sideLabels=24292f&dates=57606a&currStreakNum=2563EB&sideNums=2563EB#gh-light-mode-only" width="49%" alt="Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CarlJlin&show_icons=true&theme=default&hide_border=true&border_radius=15&count_private=true&bg_color=f6f8fa&icon_color=2563EB&title_color=2563EB&text_color=24292f&ring_color=2563EB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlJlin&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&count_private=true&bg_color=0d1117&icon_color=70A5FD&title_color=70A5FD&text_color=c9d1d9&ring_color=70A5FD" width="49%" alt="Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CarlJlin&theme=default&hide_border=true&border_radius=15&background=f6f8fa&ring=2563EB&fire=e74c3c&currStreakLabel=2563EB&sideLabels=24292f&dates=57606a&currStreakNum=2563EB&sideNums=2563EB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlJlin&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD&sideLabels=c9d1d9&dates=636e72&currStreakNum=70A5FD&sideNums=70A5FD" width="49%" alt="Streak"/>
+</picture>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlJlin&layout=donut&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=70A5FD&text_color=c9d1d9&langs_count=8#gh-dark-mode-only" width="40%" alt="Top Languages"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlJlin&layout=donut&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&title_color=2563EB&text_color=24292f&langs_count=8#gh-light-mode-only" width="40%" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlJlin&layout=donut&theme=default&hide_border=true&border_radius=15&bg_color=f6f8fa&title_color=2563EB&text_color=24292f&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlJlin&layout=donut&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=70A5FD&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages"/>
+</picture>
 
 <br><br>
 
 <!-- CONTRIBUTION GRAPH -->
-<a href="https://github.com/CarlJlin"><img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=tokyo-night&hide_border=true&radius=15&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD#gh-dark-mode-only" width="100%" alt="Activity Graph"/></a>
-<a href="https://github.com/CarlJlin"><img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=minimal&hide_border=true&radius=15&bg_color=f6f8fa&color=2563EB&line=2563EB&point=24292f&area=true&area_color=93bbf0#gh-light-mode-only" width="100%" alt="Activity Graph"/></a>
+<a href="https://github.com/CarlJlin"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=minimal&hide_border=true&radius=15&bg_color=f6f8fa&color=2563EB&line=2563EB&point=24292f&area=true&area_color=93bbf0" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=tokyo-night&hide_border=true&radius=15&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD" width="100%" alt="Activity Graph"/>
+</picture></a>
 
 </div>
 
@@ -253,8 +279,10 @@ class Developer {
 
 <br><br>
 
-<img src="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight#gh-dark-mode-only" alt="Linus Torvalds Quote" width="70%"/>
-<img src="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=default#gh-light-mode-only" alt="Linus Torvalds Quote" width="70%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=default" />
+  <img src="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight" alt="Linus Torvalds Quote" width="70%"/>
+</picture>
 
 <br><br>
 
@@ -263,5 +291,7 @@ class Developer {
 </div>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=150&section=footer&animation=twinkling#gh-dark-mode-only"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,50:dce6f5,100:4A90D9&height=150&section=footer&animation=twinkling#gh-light-mode-only"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,50:dce6f5,100:4A90D9&height=150&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=150&section=footer&animation=twinkling"/>
+</picture>
