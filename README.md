@@ -220,7 +220,7 @@ class Developer {
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
+<img src="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight" alt="Linus Torvalds Quote" width="70%"/>
 
 <br><br>
 
