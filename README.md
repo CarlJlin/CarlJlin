@@ -3,15 +3,15 @@
 <!-- ANIMATED HEADER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8eef5,50:dce6f5,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=1a1b27&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1" />
-  <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:e8eef5,50:dce6f5,100:4A90D9&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=24292f&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=4A90D9&strokeWidth=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1b27,100:70A5FD&height=300&section=header&text=Carl%20Jeanlin&fontSize=70&fontColor=fff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descSize=25&descAlignY=55&stroke=70A5FD&strokeWidth=1"/>
 </picture>
 
 <!-- ANIMATED TYPING -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Building+scalable+web+applications;%3E+Crafting+clean+%26+efficient+code;%3E+Shipping+full-stack+solutions;%3E+From+database+to+deployment" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=2563EB&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Building+scalable+web+applications;%3E+Crafting+clean+%26+efficient+code;%3E+Shipping+full-stack+solutions;%3E+From+database+to+deployment" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Building+scalable+web+applications;%3E+Crafting+clean+%26+efficient+code;%3E+Shipping+full-stack+solutions;%3E+From+database+to+deployment" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2000&pause=500&color=70A5FD&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Building+scalable+web+applications;%3E+Crafting+clean+%26+efficient+code;%3E+Shipping+full-stack+solutions;%3E+From+database+to+deployment"/>
 </picture>
 
 <br>
@@ -93,38 +93,82 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LANGUAGES-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=java,python,cpp,php&theme=dark&perline=2" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,cpp,php&theme=dark&perline=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,cpp,php&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php&theme=dark&perline=2" alt=""/>
+</picture>
 <br>
-<a href="#"><img src="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark&perline=2" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark&perline=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css&theme=dark&perline=2" alt=""/>
+</picture>
+
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/FRONTEND-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark&perline=2" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,bootstrap&theme=dark&perline=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,bootstrap&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark&perline=2" alt=""/>
+</picture>
 <br><br>
 <img src="https://img.shields.io/badge/Responsive-Design-70A5FD?style=flat-square" alt=""/>
 <br>
 <img src="https://img.shields.io/badge/SPA-Architecture-70A5FD?style=flat-square" alt=""/>
+
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/BACKEND-0d1117?style=for-the-badge" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/BACKEND-0d1117?style=for-the-badge" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/BACKEND-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BACKEND-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark&perline=2" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark&perline=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark&perline=2" alt=""/>
+</picture>
 <br><br>
 <img src="https://img.shields.io/badge/REST-APIs-70A5FD?style=flat-square" alt=""/>
 <br>
 <img src="https://img.shields.io/badge/MVC-Pattern-70A5FD?style=flat-square" alt=""/>
+
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/DEVOPS-0d1117?style=for-the-badge" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DEVOPS-0d1117?style=for-the-badge" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DEVOPS-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DEVOPS-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark&perline=2" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark&perline=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux&theme=light&perline=2" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark&perline=2" alt=""/>
+</picture>
 <br><br>
 <img src="https://img.shields.io/badge/CI/CD-Pipelines-70A5FD?style=flat-square" alt=""/>
 <br>
 <img src="https://img.shields.io/badge/CLI-Tools-70A5FD?style=flat-square" alt=""/>
+
 </td>
 </tr>
 </table>
@@ -134,18 +178,38 @@ class Developer {
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-0d1117?style=for-the-badge" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-0d1117?style=for-the-badge" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DESKTOP_&_FRAMEWORKS-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=qt&theme=dark" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=qt&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=qt&theme=light" />
+  <img src="https://skillicons.dev/icons?i=qt&theme=dark" alt=""/>
+</picture>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"/>
 <img src="https://img.shields.io/badge/LibGDX-E74C3C?style=for-the-badge&logo=gamemaker&logoColor=white" alt="LibGDX"/>
 <img src="https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame"/>
+
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/IDE_&_BUILD-0d1117?style=for-the-badge" alt=""/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/IDE_&_BUILD-0d1117?style=for-the-badge" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IDE_&_BUILD-e8eef5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IDE_&_BUILD-0d1117?style=for-the-badge" alt=""/>
+</picture>
 <br><br>
-<a href="#"><img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=dark&perline=4" alt=""/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=dark&perline=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,gradle,maven&theme=dark&perline=4" alt=""/>
+</picture>
+
 </td>
 </tr>
 </table>
@@ -232,7 +296,7 @@ class Developer {
 <!-- CONTRIBUTION GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=tokyo-night&hide_border=true&radius=15&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=minimal&hide_border=true&radius=15&bg_color=f6f8fa&color=2563EB&line=2563EB&point=24292f&area=true&area_color=2563EB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=minimal&hide_border=true&radius=15&bg_color=f6f8fa&color=2563EB&line=2563EB&point=24292f&area=true&area_color=93bbf0" />
   <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=CarlJlin&theme=tokyo-night&hide_border=true&radius=15&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&area_color=70A5FD" />
 </picture>
 
@@ -264,7 +328,11 @@ class Developer {
 
 <br><br>
 
-<img src="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight" alt="Linus Torvalds Quote" width="70%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=default" />
+  <img src="https://github-readme-quotes-torvalds.vercel.app/api?type=horizontal&theme=tokyonight" alt="Linus Torvalds Quote" width="70%"/>
+</picture>
 
 <br><br>
 
@@ -275,6 +343,6 @@ class Developer {
 <!-- FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=150&section=footer&animation=twinkling" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,50:dce6f5,100:70A5FD&height=150&section=footer&animation=twinkling" />
-  <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=150&section=footer&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,50:dce6f5,100:4A90D9&height=150&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70A5FD&height=150&section=footer&animation=twinkling"/>
 </picture>
